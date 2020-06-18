@@ -8,4 +8,6 @@ This sample was inspired (reproduced) from the following [youtube video](https:/
 
 Images downloaded from freepik
 
-- [Pattern photo created by awesomecontent - www.freepik.com](https://www.freepik.com/free-photos-vectors/pattern')
+- ['leaves-black-pebble' by awesomecontent @ Freepik](https://www.freepik.com')
+- ['white-pebble-stone' by awesomecontent @ Freepik](https://www.freepik.com')
+- ['rocks-balancing' by wirestock @ Freepik](https://www.freepik.com)
