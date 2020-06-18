@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "white-pebble-stone.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

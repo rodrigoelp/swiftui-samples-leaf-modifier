@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "rocks-balancing.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

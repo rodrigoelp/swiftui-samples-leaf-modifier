@@ -5,3 +5,7 @@ Sample code showcasing the usage of view modifiers in an app.
 ## Credit
 
 This sample was inspired (reproduced) from the following [youtube video](https://www.youtube.com/watch?v=bc6EhMPj-uQ)
+
+Images downloaded from freepik
+
+- [Pattern photo created by awesomecontent - www.freepik.com](https://www.freepik.com/free-photos-vectors/pattern')
